@@ -112,8 +112,7 @@ Repozitorij treba sadržavati:
 - 1 riješen merge konflikt
 
 ---
-
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj programske telekomunikacijske podrške.
 
 ## Uvod
 Ja sam Salić Fatima.
