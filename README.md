@@ -114,3 +114,8 @@ Repozitorij treba sadržavati:
 ---
 
 Ovaj repo sadrži moj GitHub zadaću.
+
+## Uvod
+Ja sam Salić Fatima.
+Navijam za Juventus.
+Mnogo volim mačke i generalno sve životinje.
