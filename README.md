@@ -72,7 +72,7 @@ Promijenite je u:
 
 Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj programske telekomunikacijske podrške.
 
-Napravite commit.
+Napravite commit. 
 
 ---
 
